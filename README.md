@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Amirah 👋
 
-<!--
-**aldajani0/aldajani0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer & Computer Science Graduate.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- NLP
+- IoT
+- TensorFlow
+- PyTorch
+
+## Achievements
+
+🏆 1st Place - Citrus Innovation Hackathon
+
+🥉 Graduation Project ranked among Top 3 Projects
+
+💻 6+ AI Projects
+
+🚀 8+ Hackathons and Competitions
+
+## Connect with me
+
+https://amirahk-digital-card.netlify.app/
