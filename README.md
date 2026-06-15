@@ -1,28 +1,48 @@
-# Hi, I'm Amirah 👋
+# 👋 Hi, I'm Amirah Aldajani
 
-AI Engineer & Computer Science Graduate.
+### AI Engineer | Computer Science Graduate with Distinction & Honors 🤖✨
 
-## Skills
+Passionate about building intelligent systems that solve real-world problems through **Artificial Intelligence, Computer Vision, Natural Language Processing, and IoT**.
 
-- Python
-- Machine Learning
-- Deep Learning
+---
+
+## 🚀 Tech Stack
+
+ Python •  Machine Learning •  Deep Learning  
+ Computer Vision •  NLP •  IoT  
+ TensorFlow • PyTorch • Scikit-learn
+
+---
+
+## 🏆 Achievements
+
+🥇 1st Place — Citrus Innovation Hackathon
+
+🥈 2nd Place — Smart Cities Hackathon
+
+🥈 2nd Place — Qurosh Hackathon
+
+🥉 Graduation Project ranked among the **Top 3 Projects** at the university
+
+💻 Built **5+ AI & Software Projects**
+
+🚀 Participated in **8+ Hackathons & Innovation Competitions**
+
+---
+
+## 🌟 Areas of Interest
+
+- Artificial Intelligence
 - Computer Vision
-- NLP
-- IoT
-- TensorFlow
-- PyTorch
+- Machine Learning
+- Natural Language Processing
+- Smart Agriculture
+- Intelligent Recommendation Systems
 
-## Achievements
+---
 
-🏆 1st Place - Citrus Innovation Hackathon
+## Let's Connect
 
-🥉 Graduation Project ranked among Top 3 Projects
-
-💻 6+ AI Projects
-
-🚀 8+ Hackathons and Competitions
-
-## Connect with me
+🌐 My Digital Card: 
 
 https://amirahk-digital-card.netlify.app/
