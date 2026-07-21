@@ -123,15 +123,19 @@
 
 ---
 
-## 📈 Activity & GitHub Stats
+## 📈 Activity & Portfolio Summary
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldajani0&theme=react-dark&bg_color=1f2937&color=FF8BCB&line=FF8BCB&point=A78BFA&area=true&hide_border=true" alt="Amirah's GitHub Activity Graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aldajani0&theme=darkhub&margin-w=15&row=1&column=6" alt="Amirah's GitHub Trophies" width="100%" />
-</p>
+<div align="center">
+
+| 🏆 Hackathon Awards | 🤖 AI & ML Projects | 🎓 Graduation Honor | 🌐 Portfolio Website |
+| :---: | :---: | :---: | :---: |
+| **5+ Top Rankings** | **9+ Developed** | **Distinction & Honors** | **[amirahaldajani.com](https://amirahaldajani.com)** |
+
+</div>
 
 ---
 
