@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Amirah K. Aldajani
-### AI Engineer | Computer Science Graduate with Distinction & Honors 🤖✨
+# ✨ Hi there! I'm Amirah K. Aldajani 👋
+### 🤖 AI Engineer | Computer Science Graduate with Distinction & Honors
 
 <p align="center">
   <a href="https://amirahaldajani.com" target="_blank">
@@ -10,118 +10,132 @@
   <a href="https://linkedin.com/in/aldajanii" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-aldajanii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/aldajani0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-aldajani0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="mailto:Aldajaniamirah@gmail.com">
     <img src="https://img.shields.io/badge/Email-Aldajaniamirah%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/aldajani0">
+    <img src="https://img.shields.io/badge/Location-Riyadh%2C%20Saudi%20Arabia%20🇸🇦-701A75?style=for-the-badge" alt="Location" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF8BCB&center=true&vcenter=true&width=600&lines=AI+Engineer+%26+Data+Analyst;Computer+Science+Graduate+(Honors);Computer+Vision+%26+NLP+Specialist;Building+Intelligent+AI+Solutions" alt="Typing SVG" />
+</p>
 
 </div>
 
-## 📌 About Me
+---
 
-I am a **Computer Science Graduate with Distinction & Honors**, specializing in **Artificial Intelligence, Computer Vision, Natural Language Processing (NLP), and IoT**. 
+## 🌟 About Me
 
-Passionate about developing scalable, intelligent end-to-end AI solutions that solve real-world problems and drive digital transformation.
-
-* 🌐 **Live Portfolio:** [https://amirahaldajani.com](https://amirahaldajani.com)
-* 🎓 **Education:** B.Sc. in Computer Science (Distinction & Honors)
-* 💼 **Domain Expertise:** AI Systems, Computer Vision, Agentic AI, NLP, Data Analytics, IoT Integration
+- 🎓 **Education:** Computer Science Graduate with **Distinction & First Class Honors**
+- 🤖 **Passionate About:** Building end-to-end AI systems, Computer Vision, Agentic AI, NLP, and IoT solutions
+- 🏆 **Achievements:** 1st Place in Citrus Hackathon & Imam University Hackathon, top rankings across 5+ competitions
+- 💻 **Experience:** Developed **9+ AI & Software Projects** across agriculture, education, and accessibility
+- 🌐 **Live Portfolio:** **[amirahaldajani.com](https://amirahaldajani.com)**
 
 ---
 
 ## 🏆 Honors & Hackathon Achievements
 
-| Award / Honor | Competition / Institution | Rank |
-| :--- | :--- | :---: |
-| 🥇 **1st Place** | Citrus Innovation Hackathon | **1st** |
-| 🥇 **1st Place** | Imam University Hackathon | **1st** |
-| 🥈 **2nd Place** | Smart Cities Competition | **2nd** |
-| 🥈 **2nd Place** | Qurosh Entrepreneurship Competition | **2nd** |
-| 🥉 **3rd Place** | Best Graduation Project (Shaqra University) | **3rd** |
-
-* 💻 Developed **9+ AI & Software Projects**
-* 🚀 Participated in **8+ Hackathons & Innovation Competitions**
+```
+ 🥇  1st Place  ─── Citrus Innovation Hackathon
+ 🥇  1st Place  ─── Imam University Hackathon
+ 🥈  2nd Place  ─── Smart Cities Competition
+ 🥈  2nd Place  ─── Qurosh Entrepreneurship Competition
+ 🥉  3rd Place  ─── Best Graduation Project (Shaqra University)
+```
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-### 🤖 AI, Data Science & Machine Learning
-`Python` • `TensorFlow` • `Keras` • `PyTorch` • `Scikit-Learn` • `OpenCV` • `Computer Vision` • `NLP` • `Transformers / BERT` • `Agentic AI` • `RAG` • `CNN`
+<div align="center">
 
-### 💻 Web Engineering & Systems
-`TypeScript` • `React.js` • `Vite` • `TailwindCSS` • `HTML5` • `CSS3` • `JavaScript` • `Flask` • `FastAPI` • `C#` • `C++` • `MySQL`
+### 🧠 Artificial Intelligence & Data Science
+p
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### ⚙️ Automation, Cloud & Tools
-`RPA (UiPath)` • `Power BI` • `Azure Synapse Analytics` • `IoT (ESP32)` • `Firebase` • `Git & GitHub` • `Jupyter` • `Google Colab`
+### 💻 Development & Web Technologies
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### ⚙️ Automation, Analytics & Tools
+![UiPath](https://img.shields.io/badge/UiPath_RPA-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure_Synapse-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Key Featured Projects
 
-### 🌾 1. Gharas (غراس) — AI & IoT Smart Agriculture Platform
-> An AI and IoT-powered precision agriculture platform designed to monitor crop health in real time, detect plant diseases via Computer Vision, and optimize irrigation.
-* **Tech Stack:** `Python`, `TensorFlow`, `Computer Vision`, `IoT (ESP32)`, `Firebase`, `Data Analytics`
-
-### 🤟 2. Mubser (مبصر) — Arabic Sign Language Translation Platform
-> An intelligent bidirectional AI platform translating Arabic Sign Language into text and text into sign language for inclusive communication.
-* **Tech Stack:** `Python`, `Machine Learning`, `Deep Learning`, `TensorFlow`, `Computer Vision`
-
-### 🧠 3. Firasah (فراسة) — Arabic Sentiment Analysis System
-> AI-powered Arabic sentiment analysis system leveraging NLP and Transformers (BERT) to classify text sentiments with real-time prediction interfaces.
-* **Tech Stack:** `Python`, `NLP`, `BERT / Transformers`, `Machine Learning`, `Flask`
-
-### 📚 4. Mirrat (مرآة) — Agentic AI Educational Assistant
-> An Agentic AI educational assistant utilizing Retrieval-Augmented Generation (RAG) to adapt to instructor styles, simplify concepts, and generate custom practice assessments.
-* **Tech Stack:** `Agentic AI`, `LLMs`, `Python`, `RAG`, `NLP`, `Prompt Engineering`
-
-### 🌴 5. Mhkah (محكاة) — Interactive Agri-Tourism Experience
-> Intelligent platform transforming agricultural farm visits into personalized, story-based interactive experiences using AI Agents and real-time plant recognition.
-* **Tech Stack:** `TypeScript`, `React`, `AI Agents`, `Computer Vision`, `UX/UI Design`
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌾 Gharas (غراس)</h3>
+      <p align="center"><b>AI & IoT Smart Agriculture System</b></p>
+      <p>Real-time crop monitoring and plant disease detection platform utilizing computer vision and ESP32 IoT devices.</p>
+      <p><b>Tech:</b> Python • TensorFlow • Computer Vision • ESP32 • Firebase</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤟 Mubser (مبصر)</h3>
+      <p align="center"><b>Arabic Sign Language AI Translator</b></p>
+      <p>Bidirectional machine learning system translating Arabic sign language into text and text into sign language.</p>
+      <p><b>Tech:</b> Deep Learning • TensorFlow • Computer Vision • ML Pipeline</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 Firasah (فراسة)</h3>
+      <p align="center"><b>Arabic Sentiment Analysis System</b></p>
+      <p>Advanced NLP framework utilizing transformer models (BERT) to classify Arabic text sentiments in real time.</p>
+      <p><b>Tech:</b> Python • NLP • Transformers • BERT • Flask</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📚 Mirrat (مرآة)</h3>
+      <p align="center"><b>Agentic AI Educational Assistant</b></p>
+      <p>Agentic AI platform using RAG to deliver personalized explanations and generate dynamic student practice questions.</p>
+      <p><b>Tech:</b> Agentic AI • LLM • RAG • NLP • Prompt Engineering</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Professional Experience
 
-* **IT Systems Engineer** — *Areen Alnokhbh Holding Group* `(Feb 2026 – Apr 2026)`
-  * Designed and managed IT infrastructure; led digital transformation and web solutions initiatives.
-* **Digital Transformation Trainee** — *Alkhorayef Group* `(June 2025 – Sep 2025)`
-  * Specialized in RPA (UiPath), BI & Data Analytics (Azure, PySpark, SQL), and Multi-Department Shared Systems.
-* **AI Trainee** — *Samsung Innovation Campus* `(Jul 2025 – Sep 2025)`
-  * Intensive training in Machine Learning, Deep Learning, NLP, Mathematics for Data Science, and TensorFlow.
+- 🏢 **IT Systems Engineer** @ *Areen Alnokhbh Holding Group* `(Feb 2026 – Apr 2026)`
+- ⚡ **Digital Transformation Trainee** @ *Alkhorayef Group* `(June 2025 – Sep 2025)`
+- 🎓 **AI Trainee** @ *Samsung Innovation Campus* `(Jul 2025 – Sep 2025)`
 
 ---
 
-## 💻 Local Setup & Development
+## 📊 GitHub Analytics
 
-To run this portfolio project locally:
-
-```bash
-# 1. Clone repository
-git clone https://github.com/aldajani0/amirah-k.-aldajani---ai-engineer-portfolio.git
-
-# 2. Navigate to project folder
-cd amirah-k.-aldajani---ai-engineer-portfolio
-
-# 3. Install dependencies
-npm install
-
-# 4. Launch local development server
-npm run dev
-```
-
-The application will be accessible at `http://localhost:3000/`.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aldajani0&show_icons=true&theme=radical&title_color=FF8BCB&icon_color=FF8BCB&text_color=ffffff&bg_color=1f2937&border_radius=15" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldajani0&layout=compact&theme=radical&title_color=FF8BCB&text_color=ffffff&bg_color=1f2937&border_radius=15" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
 <div align="center">
 
-### 🌟 Designed & Built for Amirah K. Aldajani
-**[amirahaldajani.com](https://amirahaldajani.com)**
+### 🌐 Explore My Full Portfolio:
+### **[amirahaldajani.com](https://amirahaldajani.com)**
 
 </div>
