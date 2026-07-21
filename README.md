@@ -129,14 +129,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldajani0&theme=react-dark&bg_color=1f2937&color=FF8BCB&line=FF8BCB&point=A78BFA&area=true&hide_border=true" alt="Amirah's GitHub Activity Graph" width="100%" />
 </p>
 
-<div align="center">
-  <a href="https://github.com/aldajani0">
-    <img src="https://github-readme-stats.vercel.app/api?username=aldajani0&show_icons=true&theme=radical&title_color=FF8BCB&icon_color=FF8BCB&text_color=ffffff&bg_color=1f2937&border_radius=15" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/aldajani0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldajani0&layout=compact&theme=radical&title_color=FF8BCB&text_color=ffffff&bg_color=1f2937&border_radius=15" alt="Top Languages" width="48%" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aldajani0&theme=darkhub&margin-w=15&row=1&column=6" alt="Amirah's GitHub Trophies" width="100%" />
+</p>
 
 ---
 
